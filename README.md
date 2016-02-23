@@ -1,7 +1,7 @@
 # Manager of Employee [August 2015]
 Desktop application for managing employees, teams and projects in companies. Project contain 3 tabs: employee, team and project. User can create simple rows and connections between tabs.
 
-## Technologies
+## Technologies:
 1. Frontend:
   - Swing
 2. Backend:
@@ -14,7 +14,7 @@ Desktop application for managing employees, teams and projects in companies. Pro
 3. Database:
   - MySQL(XAMPP) ver. 3.2.1
 
-## Tabs description
+## Tabs description:
 |                             | Employee                               | Team                                    | Project           |
 |:---------------------------:|:--------------------------------------:|:---------------------------------------:|:----------------: |
 | Single row contain          |ID, name, surname,<br /> salary, team, project|ID, name, project,<br /> team leader, employees|ID, name, teams    |
@@ -22,7 +22,7 @@ Desktop application for managing employees, teams and projects in companies. Pro
 | Contain single reference to | team, project                          | project                                 |                   |
 | Contain multi reference to  |                                        |employee                                 | team              |
 
-## Team leader
+## Team leader:
 - every employee can be
 - from the list of employees in team
 - max 1 per team

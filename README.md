@@ -14,7 +14,7 @@ Desktop application for managing employees, teams and projects in companies. Pro
 3. Database:
   - MySQL(XAMPP) ver. 3.2.1
 
-## Connections
+## Tabs description
 |                             | Employee                               | Team                                    | Project           |
 |:---------------------------:|:--------------------------------------:|:---------------------------------------:|:----------------: |
 | Single row contain          |ID, name, surname,<br /> salary, team, project|ID, name, project,<br /> team leader, employees|ID, name, teams    |

@@ -1,5 +1,5 @@
-# Manager of Employee [August 2015]
-Desktop application for managing employees, teams and projects in companies. Project contain 3 tabs: employee, team and project. User can create simple rows and connections between tabs.
+# Manager of Employee
+Desktop application for managing employees, teams and projects in companies. Project contains 3 tabs: employee, team and project. User can create simple rows and connections between tabs.
 
 ## Technologies:
 1. Frontend:
